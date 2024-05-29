@@ -5,10 +5,6 @@ This repository contains the experimental code to reproduce the results from the
 
 Link to publication: TBA
 
-### Setup
-
-```
-```
 
 ### Citation
 Please cite the paper as follows:
