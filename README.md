@@ -10,4 +10,12 @@ Link to publication: TBA
 Please cite the paper as follows:
 
 ```
+@inproceedings{
+sale2024labelwise,
+title={Label-wise Aleatoric and Epistemic Uncertainty Quantification},
+author={Yusuf Sale and Paul Hofman and Timo L{\"o}hr and Lisa Wimmer and Thomas Nagler and Eyke H{\"u}llermeier},
+booktitle={The 40th Conference on Uncertainty in Artificial Intelligence},
+year={2024},
+url={https://openreview.net/forum?id=1Wg0J2WtEU}
+}
 ```
